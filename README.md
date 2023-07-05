@@ -10,3 +10,4 @@
 
 ## Important Resources:
 - [Horizontal Line](https://syntaxfix.com/question/1363/draw-horizontal-rule-in-react-native)
+- [Bottom Tab Navigation](https://aboutreact.com/react-native-bottom-navigation/)
