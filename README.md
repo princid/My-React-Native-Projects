@@ -11,3 +11,4 @@
 ## Important Resources:
 - [Horizontal Line](https://syntaxfix.com/question/1363/draw-horizontal-rule-in-react-native)
 - [Bottom Tab Navigation](https://aboutreact.com/react-native-bottom-navigation/)
+- [All in One Screen Navigation](https://betterprogramming.pub/react-navigation-5-stack-tab-drawer-all-in-one-ead723188056)
